@@ -1,0 +1,22 @@
+[
+    {
+        "studentid": "101",
+        "name": "Alice Johnson",
+        "grade": "A"
+    },
+    {
+        "studentid": "102",
+        "name": "Bob Smith",
+        "grade": "B+"
+    },
+    {
+        "studentid": "103",
+        "name": "Charlie Brown",
+        "grade": "C"
+    },
+    {
+        "studentid": "104",
+        "name": "Diana Prince",
+        "grade": "A+"
+    }
+]
